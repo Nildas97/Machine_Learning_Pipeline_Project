@@ -1,0 +1,9 @@
+# total list of libraries are being imported in the project
+# installing the setup.py, it needs (-e .)
+
+numpy
+pandas
+seaborn
+flask
+scikit-learn
+-e .
