@@ -1,0 +1,6 @@
+[ 2023-10-07 17:08:21,709 ] 25 root - INFO - ******DATA_INGESTION******
+[ 2023-10-07 17:08:21,709 ] 29 root - INFO - Data ingestion started
+[ 2023-10-07 17:08:21,709 ] 32 root - INFO - Reading the data from local system
+[ 2023-10-07 17:08:21,922 ] 35 root - INFO - Reading data completed
+[ 2023-10-07 17:08:22,059 ] 45 root - INFO - Splitting the data into train and test
+[ 2023-10-07 17:08:22,316 ] 56 root - INFO - Data ingestion completed
